@@ -1,0 +1,182 @@
+{
+  "deadlines": [
+    {
+      "id": "1",
+      "expirationDate": "2024-11-15T00:00:00.000Z",
+      "type": "carta_identita"
+    },
+    {
+      "id": "2",
+      "expirationDate": "2024-11-16T00:00:00.000Z",
+      "type": "passaporto"
+    },
+    {
+      "id": "3",
+      "expirationDate": "2024-11-17",
+      "type": "carta_identita"
+    },
+    {
+      "id": "5",
+      "expirationDate": "2024-12-20T07:30:00.000Z",
+      "type": "carta_identita"
+    }
+  ],
+  "news": [
+    {
+      "id": "1",
+      "title": "Ricevuta pagoPA1111",
+      "date": "2024-11-12",
+      "description": "Ricevuta del pagamento a ROMA CAPITALE1",
+      "source": "10 - L'app dei servizi pubblici"
+    },
+    {
+      "id": "2",
+      "title": "Carta Giovani 2",
+      "date": "2024-11-09",
+      "description": "Vivi il grande sport con Carta Giovani1",
+      "source": "PCM- Dipartimento per le Politiche Giovanili"
+    },
+    {
+      "id": "3",
+      "title": "Carta Giovani 3",
+      "date": "2024-11-10",
+      "description": "Vivi il grande sport con Carta Giovani",
+      "source": "PCM- Dipartimento per le Politiche Giovanili"
+    },
+    {
+      "id": "4",
+      "title": "Carta Giovani 4",
+      "date": "2024-11-10",
+      "description": "Vivi il grande sport con Carta Giovani",
+      "source": "PCM- Dipartimento per le Politiche Giovanili"
+    },
+    {
+      "id": "5",
+      "title": "Carta Giovani 5",
+      "date": "2024-11-11",
+      "description": "Vivi il grande sport con Carta Giovani",
+      "source": "PCM- Dipartimento per le Politiche Giovanili"
+    },
+    {
+      "id": "6",
+      "title": "Carta Giovani 6",
+      "date": "2024-11-12",
+      "description": "Vivi il grande sport con Carta Giovani",
+      "source": "PCM- Dipartimento per le Politiche Giovanili"
+    },
+    {
+      "id": "7",
+      "title": "Carta Giovani 7",
+      "date": "2024-11-13",
+      "description": "Vivi il grande sport con Carta Giovani",
+      "source": "PCM- Dipartimento per le Politiche Giovanili"
+    },
+    {
+      "id": "8",
+      "title": "Carta Giovani 8",
+      "date": "2024-11-14",
+      "description": "Vivi il grande sport con Carta Giovani",
+      "source": "PCM- Dipartimento per le Politiche Giovanili"
+    }
+  ],
+  "usefulLink": [
+    {
+      "id": "1",
+      "title": "Servizi Pubblici",
+      "items": [
+        {
+          "id": "1",
+          "title": "INPS - Istituto Nazionale Previdenza Sociale",
+          "description": "Gestione delle prestazioni pensionistiche e dei servizi di previdenza sociale.",
+          "url": "https://www.inps.it/"
+        },
+        {
+          "id": "2",
+          "title": "Agenzia delle Entrate",
+          "description": "Servizi fiscali, dichiarazioni dei redditi e informazioni tributarie.",
+          "url": "https://www.agenziaentrate.gov.it/"
+        },
+        {
+          "id": "3",
+          "title": "Agenzia delle Entrate",
+          "description": "Servizi fiscali, dichiarazioni dei redditi e informazioni tributarie.",
+          "url": "https://www.agenziaentrate.gov.it/"
+        },
+        {
+          "id": "4",
+          "title": "Agenzia delle Entrate",
+          "description": "Servizi fiscali, dichiarazioni dei redditi e informazioni tributarie.",
+          "url": "https://www.agenziaentrate.gov.it/"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Salute",
+      "items": [
+        {
+          "id": "3",
+          "title": "Ministero della Salute",
+          "description": "Informazioni su politiche sanitarie, prevenzione e servizi sanitari nazionali.",
+          "url": "http://www.salute.gov.it/"
+        },
+        {
+          "id": "4",
+          "title": "Tessera Sanitaria",
+          "description": "Gestione della tessera sanitaria e accesso ai servizi sanitari online.",
+          "url": "https://sistemats1.sanita.finanze.it/"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Istruzione",
+      "items": [
+        {
+          "id": "5",
+          "title": "Ministero dell'Istruzione",
+          "description": "Informazioni sul sistema scolastico, programmi educativi e servizi per studenti.",
+          "url": "https://www.miur.gov.it/"
+        },
+        {
+          "id": "6",
+          "title": "Università e Ricerca",
+          "description": "Risorse per l'istruzione superiore, la ricerca scientifica e tecnologica.",
+          "url": "https://www.mur.gov.it/"
+        }
+      ]
+    }
+  ],
+  "service": [
+    {
+      "id": "citizenship",
+      "title": "Cittadinanza e Identità",
+      "description": "Gestisci la tua identità digitale e i servizi legati alla cittadinanza. Richiedi o rinnova documenti importanti come il passaporto o la carta d'identità elettronica, e accedi ai servizi SPID per l'autenticazione online sicura.",
+      "icon": "User"
+    },
+    {
+      "id": "health",
+      "title": "Salute e Benessere",
+      "description": "Accedi ai servizi sanitari nazionali, prenota visite mediche, consulta il tuo fascicolo sanitario elettronico e gestisci le tue prescrizioni mediche. Trova informazioni su campagne di prevenzione e vaccinazioni.",
+      "icon": "Heart"
+    },
+    {
+      "id": "education",
+      "title": "Istruzione e Formazione",
+      "description": "Esplora le opportunità educative, dall'iscrizione scolastica alla richiesta di borse di studio. Accedi ai servizi universitari, verifica i tuoi crediti formativi e scopri programmi di formazione professionale.",
+      "icon": "BookOpen"
+    },
+    {
+      "id": "work",
+      "title": "Lavoro e Previdenza",
+      "description": "Gestisci la tua posizione lavorativa e previdenziale. Accedi ai servizi INPS, verifica i tuoi contributi, richiedi prestazioni di disoccupazione o pensionistiche, e trova informazioni su opportunità di lavoro nel settore pubblico.",
+      "icon": "Briefcase"
+    },
+    {
+      "id": "taxes",
+      "title": "Tasse e Finanze",
+      "description": "Semplifica la gestione delle tue finanze con la pubblica amministrazione. Paga tasse e tributi, accedi al tuo cassetto fiscale, richiedi certificati e gestisci le tue pratiche con l'Agenzia delle Entrate.",
+      "icon": "DollarSign"
+    }
+  ]
+}
